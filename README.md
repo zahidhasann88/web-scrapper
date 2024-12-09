@@ -1,7 +1,7 @@
 ```markdown
 # Web Scrapers
 
-This is the code from my web scraping guide on YouTube. It includes two scrapers:
+This repository contain web scrapping code base. It includes two scrapers:
 - **Node.js** with Puppeteer
 - **Python** with Beautiful Soup
 
